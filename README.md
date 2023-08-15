@@ -27,6 +27,10 @@
 
 <br>
 
+## 발표 및 시연 영상
+
+[![Youtube](https://img.youtube.com/vi/PwMU--ot2oc/0.jpg)](https://youtu.be/PwMU--ot2oc)
+
 ## Model & Training
 
 ### 1. Dataset
